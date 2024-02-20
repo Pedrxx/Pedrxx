@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrxx&layout=compact&langs_count=16&theme=dark"/>
 
 <!--
