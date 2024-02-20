@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrxx&layout=compact&langs_count=16&theme=great-gatsby"/>
+<img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrxx&layout=compact&langs_count=16&theme=dark"/>
 
 <!--
 **Pedrxx/Pedrxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
